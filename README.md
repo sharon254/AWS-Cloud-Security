@@ -15,5 +15,6 @@ A Lambda Function can run advanced queries that are more complex and push the re
 ## AWS Config Aggregators
 For the entrprises having multiple accounts,
 When there is need to apply these rules to each organizational Unit, at a centralized point to ensure consistency accross all accounts.
+This is done at the organizational level,and the rsults potrayed in one dashboard showing which resources are compliant and non-compliant.
 ## Architecture 
 ![AWS Aggregator_](https://user-images.githubusercontent.com/57444486/202378916-986bd0b5-9cbe-4eff-a3f1-d37558ae4291.jpeg)
