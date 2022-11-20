@@ -22,6 +22,7 @@ This is done at the organizational level,and the rsults potrayed in one dashboar
 Cloud Trail gives visibility onto what is happening  in your acccount tracking all the API calls made in your account.
 Enabling Guard Duty
 AWS Security Hub, to centralize all the notifications
+## Architecture 
 ![AWS CloudTrail](https://user-images.githubusercontent.com/57444486/202881545-317abca5-23e6-45e1-8fae-5fdd21d2bb9f.jpeg)
 
 
