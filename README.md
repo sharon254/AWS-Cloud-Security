@@ -25,4 +25,7 @@ AWS Security Hub, to centralize all the notifications
 ## Architecture 
 ![AWS CloudTrail](https://user-images.githubusercontent.com/57444486/202881545-317abca5-23e6-45e1-8fae-5fdd21d2bb9f.jpeg)
 
+IAM Access Security
+## Architecture 
+![AWS IAM Access Security](https://user-images.githubusercontent.com/57444486/202884810-da1eb854-8b1d-4042-b7c2-07f59eaa663e.jpeg)
 
