@@ -18,3 +18,5 @@ When there is need to apply these rules to each organizational Unit, at a centra
 This is done at the organizational level,and the rsults potrayed in one dashboard showing which resources are compliant and non-compliant.
 ## Architecture 
 ![AWS Aggregator_](https://user-images.githubusercontent.com/57444486/202378916-986bd0b5-9cbe-4eff-a3f1-d37558ae4291.jpeg)
+## Cloud Trail:
+Cloud Trail gives visibility onto what is happening  in your acccount tracking all the API calls made in your account.
