@@ -20,3 +20,8 @@ This is done at the organizational level,and the rsults potrayed in one dashboar
 ![AWS Aggregator_](https://user-images.githubusercontent.com/57444486/202378916-986bd0b5-9cbe-4eff-a3f1-d37558ae4291.jpeg)
 ## Cloud Trail:
 Cloud Trail gives visibility onto what is happening  in your acccount tracking all the API calls made in your account.
+Enabling Guard Duty
+AWS Security Hub, to centralize all the notifications
+![AWS CloudTrail](https://user-images.githubusercontent.com/57444486/202881545-317abca5-23e6-45e1-8fae-5fdd21d2bb9f.jpeg)
+
+
